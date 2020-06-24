@@ -1,3 +1,5 @@
+#Detailed Analysis can be found in the notebook
+
 import pandas as pd
 import numpy as np
 import openpyxl 
@@ -147,6 +149,3 @@ dis_reg(df_suicide)
 dis_gender(df_suicide)
 dis_gender_reg(df_suicide)
 time_prog(df_suicide)
-
-
-#Detailed Analysis can be found in the notebook
